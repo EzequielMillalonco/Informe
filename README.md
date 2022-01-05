@@ -23,7 +23,8 @@
 
 5.5.4 **Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.**
 
-![Screenshot 2022-01-05 143744](https://user-images.githubusercontent.com/93826527/148278335-20d525d2-08d1-4924-9f59-1cab834f6cd5.png)
+![Screenshot 2022-01-05 144040](https://user-images.githubusercontent.com/93826527/148278631-407bd5c9-31fb-475c-a400-a7479ec06f57.png)
+
 
 
 
