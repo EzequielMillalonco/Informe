@@ -34,9 +34,22 @@
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-5.5.4 **Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.**
+**5.5.1. Arme el circuito que se muestra en la figura 5.1.**
+
+![image](https://user-images.githubusercontent.com/93396250/148305089-399b9fef-c15c-45b2-b1e8-bd3d795bfea2.png)
+
+Circuito implementado en ThinkerCAD: https://www.tinkercad.com/things/hCf08HHYSDI-cool-fyyran-jaiks/editel?sharecode=fPQQdrLt0FEgd6lRKPTzF-OUD_cki11A-CfPapgzO08
+
+![image](https://user-images.githubusercontent.com/93396250/148305138-167ca454-dc45-4488-90fb-43efcd51bf83.png)
+
+
+
+
+**5.5.4 Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.**
 
 ![Screenshot 2022-01-05 144040](https://user-images.githubusercontent.com/93826527/148278631-407bd5c9-31fb-475c-a400-a7479ec06f57.png)
+
+**5.5.5. Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.**
 
 
 
