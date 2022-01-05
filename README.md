@@ -21,6 +21,10 @@
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
+5.5.4 ![image](https://user-images.githubusercontent.com/93826527/148278266-06b129fe-fb6b-43dc-a07f-abbc4b9cf304.png)
+
+![Screenshot 2022-01-05 143744](https://user-images.githubusercontent.com/93826527/148278335-20d525d2-08d1-4924-9f59-1cab834f6cd5.png)
+
 
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
