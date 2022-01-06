@@ -40,7 +40,8 @@
 
 Circuito implementado en ThinkerCAD: https://www.tinkercad.com/things/hCf08HHYSDI-cool-fyyran-jaiks/editel?sharecode=fPQQdrLt0FEgd6lRKPTzF-OUD_cki11A-CfPapgzO08
 
-![image](https://user-images.githubusercontent.com/93396250/148305138-167ca454-dc45-4488-90fb-43efcd51bf83.png)
+![image](https://user-images.githubusercontent.com/93396250/148307513-f69bc9b8-276e-4de6-8159-89762e757114.png)
+
 
 
 
