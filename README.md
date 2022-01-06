@@ -64,6 +64,7 @@ Circuito implementado en ThinkerCAD: https://www.tinkercad.com/things/hCf08HHYSD
 
 **5.5.5. Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo.**
 
+
 **VTH**
 
 Para calcular el voltaje de Thévenin hacemos el siguiente análisis en el circuito
@@ -79,6 +80,16 @@ Para calcular la resistencia de Thévenin hacemos el siguiente análisis en el c
 ![a (2)](https://user-images.githubusercontent.com/93396250/148467865-45935a8f-3271-4247-8eb5-20209c84c347.jpg)
 
 ![image](https://user-images.githubusercontent.com/93396250/148467842-e19f1917-8aa2-4cb1-b778-9964ff091982.png)
+
+
+Circuito equivalente de Thévenin
+
+![image](https://user-images.githubusercontent.com/93396250/148468727-69c3b664-edce-49b7-b2c4-37533492a73b.png)
+
+Voltaje y corriente en el circuito equivalente de Thévenin
+
+![image](https://user-images.githubusercontent.com/93396250/148469026-941eca21-180b-4f80-9c9d-ebd00199e228.png)
+
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
       
