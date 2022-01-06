@@ -72,7 +72,7 @@ Para calcular el voltaje de Thévenin hacemos el siguiente análisis en el circu
 
 ![image](https://user-images.githubusercontent.com/93396250/148467737-b10151d8-d12b-44ff-8886-4929c825b863.png)
 
-**RTH **
+**RTH**
 
 Para calcular la resistencia de Thévenin hacemos el siguiente análisis en el circuito, reemplazando las fuentes de voltaje por sus resistencias internas (un cable). 
 
