@@ -51,7 +51,7 @@ Circuito implementado en ThinkerCAD: https://www.tinkercad.com/things/hCf08HHYSD
 
 
 
-**5.5.3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 5.1**
+**5.5.3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto.**
 
 
 
@@ -76,6 +76,14 @@ Circuito implementado en ThinkerCAD: https://www.tinkercad.com/things/hCf08HHYSD
         5.5.4. Anote el valor medido en la tabla 5.1.
 
         5.5.5. Anote los resultados en la tabla 5.2.
+
+Tabla 5.1. Valores del Circuito Equivalente de Thévenin.
+
+
+
+
+Tabla 5.2. Comprobación del Teorema de Thévenin.
+
 
 
 **PORCENTAJE DE ERROR**
