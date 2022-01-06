@@ -49,7 +49,12 @@ Circuito implementado en ThinkerCAD: https://www.tinkercad.com/things/hCf08HHYSD
 **5.5.2. Mida el voltaje y la corriente en el resistor R5**
 
 
+
+
 **5.5.3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 5.1**
+
+
+
 
 
 **5.5.4 Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente.**
@@ -57,6 +62,7 @@ Circuito implementado en ThinkerCAD: https://www.tinkercad.com/things/hCf08HHYSD
 ![Screenshot 2022-01-05 144040](https://user-images.githubusercontent.com/93826527/148278631-407bd5c9-31fb-475c-a400-a7479ec06f57.png)
 
 **5.5.5. Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo.**
+
 
 
 
@@ -70,6 +76,11 @@ Circuito implementado en ThinkerCAD: https://www.tinkercad.com/things/hCf08HHYSD
         5.5.4. Anote el valor medido en la tabla 5.1.
 
         5.5.5. Anote los resultados en la tabla 5.2.
+
+
+**PORCENTAJE DE ERROR**
+
+
 
 
 
