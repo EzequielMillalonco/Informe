@@ -31,6 +31,10 @@
 
 ![Screenshot 2022-01-05 150432](https://user-images.githubusercontent.com/93826527/148281687-91697d15-41a9-4b3b-985f-e85308f0df86.png)
 
+**MATERIALES**
+
+![image](https://user-images.githubusercontent.com/93396250/148418977-c0efaeb1-2c2a-4c96-8afc-34f67921733e.png)
+
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
@@ -42,20 +46,31 @@ Circuito implementado en ThinkerCAD: https://www.tinkercad.com/things/hCf08HHYSD
 
 ![image](https://user-images.githubusercontent.com/93396250/148307513-f69bc9b8-276e-4de6-8159-89762e757114.png)
 
+**5.5.2. Mida el voltaje y la corriente en el resistor R5**
 
 
+**5.5.3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 5.1**
 
 
-**5.5.4 Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.**
+**5.5.4 Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente.**
 
 ![Screenshot 2022-01-05 144040](https://user-images.githubusercontent.com/93826527/148278631-407bd5c9-31fb-475c-a400-a7479ec06f57.png)
 
-**5.5.5. Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.**
+**5.5.5. Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo.**
 
 
 
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+      
+        5.5.2. anote los resultados en la tabla 5.2
+
+        5.5.3. Anote el valor medido en la tabla 5.1
+
+        5.5.4. Anote el valor medido en la tabla 5.1.
+
+        5.5.5. Anote los resultados en la tabla 5.2.
+
 
 
 ## 5. VIDEO
