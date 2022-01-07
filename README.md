@@ -102,6 +102,16 @@ Para calcular la intensidad usamos la Ley de Ohm
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
       
+**CIRCUITO ORIGINAL: Voltaje y Corriente**
+
+![image](https://user-images.githubusercontent.com/93396250/148494708-82bf0e98-8908-4b51-954c-34ef1664335e.png)
+
+
+**CIRCUITO EQUIVALENTE: Voltaje y Corriente**
+
+![image](https://user-images.githubusercontent.com/93396250/148494804-cdccd86a-eff4-4e2e-a8c5-3883875e1dda.png)
+
+
         5.5.2. anote los resultados en la tabla 5.2
 
         5.5.3. Anote el valor medido en la tabla 5.1
