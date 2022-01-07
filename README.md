@@ -71,7 +71,8 @@ Para calcular el voltaje de Thévenin hacemos el siguiente análisis en el circu
 
 ![b (2)](https://user-images.githubusercontent.com/93396250/148467709-f6d3cf34-1607-4feb-b187-7b38af253977.jpg)
 
-![image](https://user-images.githubusercontent.com/93396250/148467737-b10151d8-d12b-44ff-8886-4929c825b863.png)
+![image](https://user-images.githubusercontent.com/93396250/148469556-ef5d070c-cc61-4f93-9e9a-935bd0159b07.png)
+
 
 **RTH**
 
@@ -79,7 +80,8 @@ Para calcular la resistencia de Thévenin hacemos el siguiente análisis en el c
 
 ![a (2)](https://user-images.githubusercontent.com/93396250/148467865-45935a8f-3271-4247-8eb5-20209c84c347.jpg)
 
-![image](https://user-images.githubusercontent.com/93396250/148467842-e19f1917-8aa2-4cb1-b778-9964ff091982.png)
+![image](https://user-images.githubusercontent.com/93396250/148469578-ecc51fe9-7ae5-426d-8d45-2f19558671fe.png)
+
 
 
 Circuito equivalente de Thévenin
