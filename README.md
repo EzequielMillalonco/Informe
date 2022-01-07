@@ -3,17 +3,17 @@
 ## 1. OBJETIVOS
  
         General: 
-
-
+        
+Comprobar experimentalmente el teorema de Thévenin en un circuito resistivo.
 
         Específicos: 
  
-1. 
+1. Armar un circuito resistivo y realizar mediciones de voltaje y corriente en dicho circuito mediante el uso del simulador Tinkercad.
         
-2. 
+2. Aplicar el teorema de Thévenin para el correcto cálculo de la resistencia de Thévening y el voltaje de thévening en el circuito previamente armado.
         
-3. 
-        
+3. Comprobar que los resultados teóricos calculados mediante el teorema de Thévenin coincidan con los valores medidos en el simulador Tinkercad.
+ 
 
 ## 2. MARCO TEÓRICO
 
