@@ -55,8 +55,6 @@ Circuito implementado en ThinkerCAD: https://www.tinkercad.com/things/hCf08HHYSD
 
 **5.5.3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto.**
 
-![image](https://user-images.githubusercontent.com/93396250/148500512-ec82f18a-2b8d-4f4e-80bc-20ecdff6f424.png)
-
 
 
 **5.5.4 Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente.**
