@@ -151,8 +151,7 @@ Tabla 5.4. Valores del porcentaje de error para la Tabla 5.2.
 
 ## 5. VIDEO
 
-        Link del video ¨Informe de laboratorio 5¨ en donde se explica la teoria de las Leyes de Kirchhoff mediante 
-        la construcción de un circuito electrico basico, además se demuestra que las Leyes se cumplen.
+        Link del video ¨Informe de laboratorio 5¨ en donde se comprueba experimentalmente el Teorema de Thévenin en un circuito resistivo.
  
 
  
