@@ -47,13 +47,22 @@ Circuito implementado en ThinkerCAD: https://www.tinkercad.com/things/hCf08HHYSD
 ![image](https://user-images.githubusercontent.com/93396250/148307513-f69bc9b8-276e-4de6-8159-89762e757114.png)
 
 
-**5.5.2. Mida el voltaje y la corriente en el resistor R5**
+*5.5.2. Mida el voltaje y la corriente en el resistor R5*
+
+En la siguiente imagen podemos observar la medicion del voltaje en R5
+
+![Voltaje 2](https://user-images.githubusercontent.com/93834732/148552153-93246f31-37a3-4717-8e25-ec6ddd5a826f.GIF)
+
+En la siguiente imagen podemos observar la medicion de corriente en R5
+
+![Corriente](https://user-images.githubusercontent.com/93834732/148552279-0d389324-825d-45cb-a907-a1b66cd16777.GIF)
 
 
+*5.5.3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto.*
 
+En la siguiente imagen podemos observar la medicion del voltaje del circuito sin R5
 
-
-**5.5.3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto.**
+![Voltaje](https://user-images.githubusercontent.com/93834732/148551946-3de515fd-488c-423b-bc3b-a88b1c8c5637.GIF)
 
 
 
