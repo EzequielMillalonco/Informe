@@ -122,17 +122,21 @@ Para calcular la intensidad usamos la Ley de Ohm
 
 Tabla 5.1. Valores del Circuito Equivalente de Thévenin.
 
-
+![image](https://user-images.githubusercontent.com/93396250/148495367-dae2ad9f-d805-4c3b-817f-b6fad769b14c.png)
 
 
 Tabla 5.2. Comprobación del Teorema de Thévenin.
 
+![image](https://user-images.githubusercontent.com/93396250/148495400-0742135d-06d0-419b-88c8-961d351ba6e8.png)
 
 
 **PORCENTAJE DE ERROR**
 
+Tabla 5.1. Valores del Circuito Equivalente de Thévenin.
 
 
+
+Tabla 5.2. Comprobación del Teorema de Thévenin.
 
 
 ## 5. VIDEO
