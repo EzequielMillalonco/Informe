@@ -107,7 +107,8 @@ Voltaje y corriente en el circuito equivalente de Thévenin
       
 **CIRCUITO ORIGINAL: Voltaje y Corriente**
 
-![image](https://user-images.githubusercontent.com/93396250/148494708-82bf0e98-8908-4b51-954c-34ef1664335e.png)
+![image](https://user-images.githubusercontent.com/93396250/148552546-1a33d1b1-e592-4a25-8d4b-4ee396189cb0.png)
+
 
 
 **CIRCUITO EQUIVALENTE: Voltaje y Corriente**
