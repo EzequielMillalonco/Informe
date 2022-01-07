@@ -69,7 +69,8 @@ Circuito implementado en ThinkerCAD: https://www.tinkercad.com/things/hCf08HHYSD
 
 Para calcular el voltaje de Thévenin hacemos el siguiente análisis en el circuito
 
-![b (2)](https://user-images.githubusercontent.com/93396250/148467709-f6d3cf34-1607-4feb-b187-7b38af253977.jpg)
+![VTH](https://user-images.githubusercontent.com/93396250/148552359-b07a4994-978c-4734-a338-595867fc5380.jpg)
+
 
 ![image](https://user-images.githubusercontent.com/93396250/148469556-ef5d070c-cc61-4f93-9e9a-935bd0159b07.png)
 
@@ -78,13 +79,20 @@ Para calcular el voltaje de Thévenin hacemos el siguiente análisis en el circu
 
 Para calcular la resistencia de Thévenin hacemos el siguiente análisis en el circuito, reemplazando las fuentes de voltaje por sus resistencias internas (un cable). 
 
-![a (2)](https://user-images.githubusercontent.com/93396250/148467865-45935a8f-3271-4247-8eb5-20209c84c347.jpg)
+![RTH](https://user-images.githubusercontent.com/93396250/148552344-f91b2b74-e61e-4534-b754-63fa273e271f.jpg)
+
 
 ![image](https://user-images.githubusercontent.com/93396250/148469578-ecc51fe9-7ae5-426d-8d45-2f19558671fe.png)
 
 
+**INTENSIDAD**
 
-Circuito equivalente de Thévenin
+Para calcular la intensidad usamos la Ley de Ohm
+
+![image](https://user-images.githubusercontent.com/93396250/148469776-db413449-7f1b-4a39-acf1-03e61553fd59.png)
+
+
+**Circuito equivalente de Thévenin**
 
 ![image](https://user-images.githubusercontent.com/93396250/148468727-69c3b664-edce-49b7-b2c4-37533492a73b.png)
 
@@ -93,11 +101,6 @@ Voltaje y corriente en el circuito equivalente de Thévenin
 ![image](https://user-images.githubusercontent.com/93396250/148469026-941eca21-180b-4f80-9c9d-ebd00199e228.png)
 
 
-**INTENSIDAD**
-
-Para calcular la intensidad usamos la Ley de Ohm
-
-![image](https://user-images.githubusercontent.com/93396250/148469776-db413449-7f1b-4a39-acf1-03e61553fd59.png)
 
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
