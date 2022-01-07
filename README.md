@@ -133,6 +133,11 @@ Tabla 5.2. Comprobación del Teorema de Thévenin.
 
 **PORCENTAJE DE ERROR**
 
+Formula del porcentaje de error
+
+![image](https://user-images.githubusercontent.com/93396250/148498818-6f92a1c2-8396-4d17-985f-f4b17c0c6d34.png)
+
+
 Tabla 5.1. Valores del Circuito Equivalente de Thévenin.
 
 
