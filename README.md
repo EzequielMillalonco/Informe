@@ -93,6 +93,13 @@ Voltaje y corriente en el circuito equivalente de Thévenin
 ![image](https://user-images.githubusercontent.com/93396250/148469026-941eca21-180b-4f80-9c9d-ebd00199e228.png)
 
 
+**INTENSIDAD**
+
+Para calcular la intensidad usamos la Ley de Ohm
+
+![image](https://user-images.githubusercontent.com/93396250/148469776-db413449-7f1b-4a39-acf1-03e61553fd59.png)
+
+
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
       
         5.5.2. anote los resultados en la tabla 5.2
