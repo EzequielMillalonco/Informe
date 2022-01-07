@@ -174,12 +174,12 @@ Tabla 5.4. Valores del porcentaje de error para la Tabla 5.2.
 
 ## 6. CONCLUSIONES
 
-   1. 
+
+   1. Se ha logrado el correcto armado y funcionamiento del circuito propuesto en el laboratorio, se ha usado el simulador tinkercad para el armado de dicho circuito.
         
-   2. 
+   2. Se usó el teorema de Thévenin para el cálculo del voltaje de R5 y la corriente que pasa por R5, así mismo también se usó este teorema para calcular el voltaje en el circuito cuando R5 se ve anulado.
         
-   3. 
-        
+   3. Se pudo corroborar que tanto los valores calculados teóricamente mediante el teorema de Thévening y los valores medidos en el simulador Tinkercad han coincidido, con esto podemos concluir que el teorema de Thévenin es correcto.
 
 ## 7. BIBLIOGRAFÍA
 
