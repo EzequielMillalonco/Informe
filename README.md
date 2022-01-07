@@ -48,6 +48,7 @@ Circuito implementado en ThinkerCAD: https://www.tinkercad.com/things/hCf08HHYSD
 
 **5.5.2. Mida el voltaje y la corriente en el resistor R5**
 
+![image](https://user-images.githubusercontent.com/93396250/148500512-ec82f18a-2b8d-4f4e-80bc-20ecdff6f424.png)
 
 
 
