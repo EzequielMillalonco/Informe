@@ -166,9 +166,9 @@ Tabla 5.4. Valores del porcentaje de error para la Tabla 5.2.
 
         Link del video ¨Informe de laboratorio 5¨ en donde se comprueba experimentalmente el Teorema de Thévenin en un circuito resistivo.
  
-
+https://youtu.be/6QhrVNpCMcg
  
-[![Presentación Informe 1](https://img.youtube.com/vi/iyJIL712wRU/0.jpg)](https://www.youtube.com/watch?v=iyJIL712wRU)
+[![Presentación Informe 5](https://img.youtube.com/vi/6QhrVNpCMcg/0.jpg)](https://www.youtube.com/watch?v=6QhrVNpCMcg)
 
 
 
